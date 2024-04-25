@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.main-div {
+    background-image: linear-gradient(to top, #ff00d4, #00ddff);
+    height: 100vh;
+
+
+}
+
+.todo {
+    text-decoration: underline;
+    color: #fc0882;
+    padding-top: 15px;
+}
+
+.h1-tag {
+    font-weight: 400;
+    margin-left: 15px;
+    margin-top: 35px;
+    margin-bottom: 5px;
+}
+
+.inputEl {
+    width: 80%;
+    margin-top: 10px;
+    margin: 20px;
+    padding: 8px;
+}
+
+.checkbox {
+    background-color: white;
+    width: 5vh;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e4e7eb;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-right: 10px;
+    padding: 15px;
+}
+
+.unorderlist {
+    list-style-type: none;
+
+}
+
+.container {
+    background-color: #e6f6ff;
+    width: 100%;
+    border-style: solid;
+    border-radius: 4px;
+    border-color: #096f92;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-width: 5px;
+    justify-content: space-between;
+    padding: 5px;
+    margin-right: 25px;
+
+}
+
+.delbtn {
+    margin: 5px;
+}
+
+.labelcolor {
+    font-weight: bold;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.checked {
+    text-decoration: line-through;
+}
+
+.buttontext {
+    background-image: linear-gradient(to right, red, yellow);
+    color: black;
+    font-weight: bold;
+
+}
